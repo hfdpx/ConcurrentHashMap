@@ -1,4 +1,4 @@
-package concurrent_hash_map
+package concurrentHashMap
 
 import (
 	"encoding/json"
